@@ -1,12 +1,8 @@
 {
   "author": ["Tuxendev (tuxmasku)"],
   "install_msg": "Time to party like its 1995",
-  "name": "troutslap",
-  "disabled": false,
+  "name": "TroutSlap",
   "short": "Slap people like you're on mIRC",
   "description": "Command to slap people around a bit with a large trout",
-  "tags": ["fun"],
-  "hidden": false,
-  "min_python_version": [3, 8, 0],
-  "min_bot_version": "3.5.0"
+  "tags": ["fun"]
 }
