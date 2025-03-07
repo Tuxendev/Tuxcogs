@@ -6,5 +6,6 @@
   "description": "Command to slap people around a bit with a large trout",
   "tags": ["fun"],
   "disabled": false,
+  "hidden": false,
   "type": "COG"
 }
