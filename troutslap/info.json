@@ -1,7 +1,7 @@
 {
   "author": ["Tuxendev (tuxmasku)"],
   "install_msg": "Time to party like its 1995",
-  "name": "Trout Slap",
+  "name": "troutslap",
   "disabled": false,
   "short": "Slap people like you're on mIRC",
   "description": "Command to slap people around a bit with a large trout",
