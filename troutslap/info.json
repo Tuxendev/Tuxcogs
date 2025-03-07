@@ -4,5 +4,7 @@
   "name": "TroutSlap",
   "short": "Slap people like you're on mIRC",
   "description": "Command to slap people around a bit with a large trout",
-  "tags": ["fun"]
+  "tags": ["fun"],
+  "disabled": false,
+  "type": "COG"
 }
