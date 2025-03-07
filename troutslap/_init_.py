@@ -1,4 +1,4 @@
-from .troutslap import TroutSlap
+from .troutslap import troutslap
 
 
 async def setup(bot):
